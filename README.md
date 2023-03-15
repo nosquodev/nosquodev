@@ -11,10 +11,13 @@
 
 ## Encuéntrame en
 
-`<box-icon name='twitter' type='logo' color='#4b98ff' ></box-icon>` [Twitter](https://twitter.com/nosquodev) @nosquodev
-`<box-icon name='facebook-circle' type='logo' color='#4b98ff' ></box-icon>` [Facebook](https://www.facebook.com/nosquodev) @nosquodev
-`<box-icon name='linkedin' type='logo' color='#4b98ff' ></box-icon>` [LinkedIn](https://www.linkedin.com/in/nosquodev/?original_referer=https%3A%2F%2Fgithub.com%2F) @nosquodev
-`<box-icon name='github' type='logo' color='#4b98ff' ></box-icon>` [Github](https://github.com/nosquodev) @nosquodev
+🖊 [Twitter](https://twitter.com/nosquodev) @nosquodev
+`</br>`
+📱 [Facebook](https://www.facebook.com/nosquodev) @nosquodev
+`</br>`
+👷‍♂️ [LinkedIn](https://www.linkedin.com/in/nosquodev/?original_referer=https%3A%2F%2Fgithub.com%2F) @nosquodev
+`</br>`
+😼 [Github](https://github.com/nosquodev) @nosquodev
 
 
 ## Repositorio de Notion
