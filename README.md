@@ -11,14 +11,15 @@
 
 ## Encuéntrame en
 
-🖊 [Twitter](https://twitter.com/nosquodev) @nosquodev
-`</br>`
-📱 [Facebook](https://www.facebook.com/nosquodev) @nosquodev
-`</br>`
-👷‍♂️ [LinkedIn](https://www.linkedin.com/in/nosquodev/?original_referer=https%3A%2F%2Fgithub.com%2F) @nosquodev
-`</br>`
-😼 [Github](https://github.com/nosquodev) @nosquodev
+🖊 [Twitter](https://twitter.com/nosquodev) @nosquodev  
+
+📱 [Facebook](https://www.facebook.com/nosquodev) @nosquodev  
+  
+👷‍♂️ [LinkedIn](https://www.linkedin.com/in/nosquodev/?original_referer=https%3A%2F%2Fgithub.com%2F) @nosquodev  
+
+😼 [Github](https://github.com/nosquodev) @nosquodev  
+
 
 
 ## Repositorio de Notion
-`<box-icon name='notepad' color='#4b98ff' ></box-icon>` [Notion](https://www.notion.so/Notion-NosQuoDev-edfd0479cc944ef18638ee70c07304d5?pvs=4)
+📝 [Notion](https://www.notion.so/Notion-NosQuoDev-edfd0479cc944ef18638ee70c07304d5?pvs=4)
